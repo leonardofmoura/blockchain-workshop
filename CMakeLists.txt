@@ -9,4 +9,5 @@ project(crypto-test VERSION 0.0.2 LANGUAGES CXX)
 
 add_subdirectory(lib/logicrypto)
 add_subdirectory(1-cryptography)
+add_subdirectory(2.1-simple-block)
 
