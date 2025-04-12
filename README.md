@@ -104,6 +104,8 @@ The files for task one are inside `1-cryptography`. The steps are the following:
 4. Verify the signature
 5. Try again with a different key/message and see the verification failing
 
+> **Note:** You can use the `libsodium` API directory for a slightly bigger challenge. You can check documentation [here](https://libsodium.gitbook.io/doc).
+
 ### Task 2.1 - Simple Block 
 
 The files for task one are inside `2.1-simple-block`. The steps are the following:
