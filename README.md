@@ -2,4 +2,3 @@
 
 **Setup Instructions:** https://logicand.com/lectures/blockchain-workshop/
 
-Code for the workshop
