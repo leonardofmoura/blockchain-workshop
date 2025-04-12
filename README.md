@@ -72,7 +72,7 @@ After executing, you should be able to see the following output:
 hash:  7509e5bda0c762d2bac7f90d758b5b2263fa01ccbc542ab5e3df163be08e6ca9
 ```
 
-## compilation
+## Compilation
 
 All tasks are compiled using the `CMakeLists.txt` in the root of the repository. You can compile using the same `cmake` setup as previously:
 
